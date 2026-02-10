@@ -25,7 +25,7 @@ const App = () => {
     React.createElement(Pizza, {
       name: "Bianca",
       description: "A pizza with no pomodoro sauce",
-    })
+    }),
   );
 };
 
